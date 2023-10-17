@@ -20,9 +20,7 @@ The "Energy Needs" project dives deep into the world of energy capacities and co
 
 ## 📚 Data Sources
 
-- Global Energy Database
-- World Bank Energy Statistics
-- [Add more sources here]
+- [Global Electricity Statistics (1980-2021)](https://www.kaggle.com/datasets/akhiljethwa/global-electricity-statistics)
 
 ## 📝 Methodology
 
@@ -43,9 +41,6 @@ The "Energy Needs" project dives deep into the world of energy capacities and co
 
 Interested in contributing to "Energy Needs"? Please read our CONTRIBUTING.md for guidelines on how to pitch in!
 
-## 📮 Feedback and Contact
-
-If you have any feedback or inquiries, please open an issue or send us an email at [your-email@email.com].
 
 ## 📜 License
 
