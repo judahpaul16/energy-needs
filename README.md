@@ -34,16 +34,16 @@ The "Energy Needs" project dives deep into the world of energy capacities and co
 ## 💡 Key Findings
 
 - [Preliminary findings can be listed here]
-- ...
+- [Charts n Stuff]
 - ...
 
 ## 🤝 Contributing
 
-Interested in contributing to "Energy Needs"? Please read our CONTRIBUTING.md for guidelines on how to pitch in!
+Interested in contributing to "Energy Needs"? Please read our [CONTRIBUTING](CONTRIBUTING.md) file for guidelines on how to pitch in!
 
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/). For details, see the LICENSE file.
+This project is licensed under the MIT License. For details, see the [LICENSE](LICENSE) file.
 
 ---
