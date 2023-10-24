@@ -1,6 +1,6 @@
 # 🔋 Energy Needs: A Data Science Exploration 🔍
 
-## 🌍 Overview -asdfasdf
+## 🌍 Overview
 
 The "Energy Needs" project dives deep into the world of energy capacities and consumptions across nations. By leveraging data, we aim to uncover countries at the forefront of potential energy challenges. Through rigorous analysis, this project pinpoints nations that might face energy shortfalls by contrasting their present energy infrastructure with forecasted demands rooted in historical patterns.
 
